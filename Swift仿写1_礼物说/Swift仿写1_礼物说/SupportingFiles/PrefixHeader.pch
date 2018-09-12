@@ -1,0 +1,19 @@
+//
+//  PrefixHeader.pch
+//  Swift仿写1_礼物说
+//
+//  Created by Guangquan Yu on 2017/8/31.
+//  Copyright © 2017年 Guangquan Yu. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+/*【1】【宏定义】++++++++++++++++++++++++++++++++++++++*/
+#import "UtilsMacros.h"
+#import "URLMacros.h"
+#import "FontAndColorMacros.h"
+#import "ThirdMacros.h"
+
+
+#endif /* PrefixHeader_pch */

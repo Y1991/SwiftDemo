@@ -1,0 +1,13 @@
+
+# Import CocoaPods sources
+source 'https://github.com/CocoaPods/Specs.git'
+
+platform :ios, '8.0'
+inhibit_all_warnings!
+# 必须添加（因为swift，暂时未遇到此问题）
+use_frameworks!
+
+target :Swift仿写1_礼物说 do
+pod 'AlamofireImage', '~> 3.3'
+
+end
